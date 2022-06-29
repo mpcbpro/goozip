@@ -1,4 +1,4 @@
-# happyhouse
+# happyhouse_FE
 
 ## Project setup
 ```
